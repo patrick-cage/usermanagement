@@ -1,0 +1,2 @@
+run app with node npm start from base
+remmember to start xammp
